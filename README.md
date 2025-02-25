@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Daniel**, a passionate developer with a strong background in software development. While my primary focus is on **frontend development** for **mobile** and **web** applications, I also have experience working on **backend** systems, particularly in building **APIs**. My expertise spans multiple programming languages and frameworks, and I thrive on solving complex problems and creating efficient, high-quality solutions.
+Hello! I'm **Daniel**, a passionate developer with a ever growing background in software development. While my primary focus is on **frontend development** for **mobile** and **web** applications, I also have worked on **backend** systems, particularly in building **APIs**. My knowledge spans multiple programming languages, and I thrive on using my creativity to solve complex problems.
 
 ## 🛠️ Tools & Technologies
 
