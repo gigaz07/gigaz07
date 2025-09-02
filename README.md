@@ -19,8 +19,8 @@ Hello! I'm **Daniel**, a passionate developer with a ever growing background in 
 ## 🛠️ Tools & Technologies
 
 - **Frontend & Mobile:** Flutter, Dart
-- **Backend:** Go
-- **Databases:** PostgreSQL, Firebase
+- **Backend:** Go, Python
+- **Databases:** PostgreSQL, Firebase, Supabase
 - **Computer Vision:** Python
 - **Pose Estimation & AR:** CSharp
 
